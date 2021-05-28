@@ -30,7 +30,7 @@ and help a lot of people in various domains is really exciting to me. My Persona
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/darshan-ds/darshan-ds/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/SaiNikhil-06/SaiNikhil-06/blob/master/Ds1.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I will try my best to help ;
 - 📫 How to reach me: [katarusai06@gmail.com](mailto:katarusai06@gmail.com);
