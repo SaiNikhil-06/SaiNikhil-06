@@ -55,9 +55,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 Chatbot Frameworks and worked on Google Diagflow platfrom : Building a ChatBot
 ```
 
-If you like what I do, maybe consider buying me a coffee/tea  👉👈
+If you like what I do, maybe consider Supporting. Click the  link below 
 
-<a href="https://www.buymeacoffee.com/SaiNRK" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Support me" width="150" ></a>
+👉<a href="https://www.buymeacoffee.com/SaiNRK" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Support me" width="150" ></a>👈
+
+
 
 ---
 
