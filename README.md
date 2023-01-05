@@ -12,9 +12,9 @@
   <img align="left" alt="Sai's Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
 </a>
 
-<a href="https://open.spotify.com/collection/tracks">
+<!-- <a href="https://open.spotify.com/collection/tracks">
   <img align="left" alt="Sai's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SaiNikhil-06.SaiNikhil-06)
 
