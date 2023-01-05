@@ -11,9 +11,6 @@
 <a href="https://www.instagram.com/nik_hill_insta/">
   <img align="left" alt="Sai's Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
 </a>
-<!-- <a href="https://twitter.com/SaiNikhil">
-  <img align="left" alt="Sai's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
 
 <a href="https://open.spotify.com/collection/tracks">
   <img align="left" alt="Sai's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
