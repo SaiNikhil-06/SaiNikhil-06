@@ -30,7 +30,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   <img align="right" alt="GIF" src="ds4.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I will try my best to help ;
-- 📫 How to reach me: [katarusai06@gmail.com](mailto:katarusai06@gmail.com);
+- 📫 How to reach me: [katarusai0618@gmail.com](mailto:katarusai06@gmail.com);
 - 📝 [Resume](https://drive.google.com/file/d/1C-woPxh6Eiwx9zh00ru4MRkA2jWhuvg9/view?usp=sharing)
 
 ---
