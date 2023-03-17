@@ -21,8 +21,7 @@
 <br />
 
 
-Hi, I'm [Sai Nikhil Kataru](https://SaiNikhil-06.github.io/), a highly analytical individual with a strong apt for learning and collaborative skills. A passionate Data science explorer and an AI enthusiast from India. I am really keen to learn about the new technological advancement, mainly in the field of Data science and AI. The possibility of creating a semi-intelligent system, which can make our lives easier
-and help a lot of people in various domains is really exciting to me. My Personal Interst is Computer Vision and Natural Language Processing. Lets share our knowledge through this platform and grow together.
+Hi, I'm [Sai Nikhil Kataru](https://SaiNikhil-06.github.io/), a highly analytical individual with a strong apt for learning and collaborative skills. A passionate Data science explorer and an AI enthusiast from India. I am really keen to learn about the new technological advancement, mainly in the field of Data science and AI. The possibility of creating a semi-intelligent system, which can make our lives easier and help a lot of people in various domains is really exciting to me. My Personal Interst is Computer Vision and Natural Language Processing. Lets share our knowledge through this platform and grow together.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
