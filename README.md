@@ -18,62 +18,84 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Sai Nikhil Kataru**, an enthusiastic AI/ML Software Engineer from 🇮🇳 India.  
-I specialize in building intelligent systems, extracting insights from data, and deploying scalable ML pipelines.
+Hey there! I'm **Sai Nikhil Kataru**, an AI/ML Software Engineer from 🇮🇳 India who loves solving real-world problems with smart, scalable solutions.
 
-I love working at the intersection of:
+🔍 My core interests lie in:
 - 🤖 Data Science & Artificial Intelligence
-- 🧠 NLP & Computer Vision
-- 🛜 Networking & Systems Design
-- 💬 Chatbot Frameworks & Dialogflow
+- 🧠 Natural Language Processing & Computer Vision
+- 💬 Chatbot Development (Dialogflow)
+- 🌐 Networking & Systems
 
-I’m also a proud open-source advocate — learning, building, and sharing knowledge with the community.
-
----
-
-<img align="right" alt="ds4 gif" src="ds4.gif" width="400"/>
-
-## 🛠️ Tech Stack
-
-| Languages | ML & AI | Tools & Platforms | Data & Networking |
-|----------|---------|-------------------|-------------------|
-| Python, R, SQL, C++, Java | TensorFlow, PyTorch, scikit-learn, Keras | Git, Docker, Google Colab, Jupyter, AWS, Azure | MySQL, MongoDB, TCP/IP, OSI, Network Security |
+I’m passionate about **open-source**, collaborative learning, and turning ideas into impact.
 
 ---
 
-## 📂 Projects Showcase
+## 🧰 Tech Stack & Tools
 
-- 🤖 **AI Chatbot (Dialogflow)**  
-  Built an NLP-based chatbot for natural query handling and conversational flows.
+<div align="center">
 
-- 📉 **Customer Churn Predictor**  
-  Supervised ML model with 85%+ accuracy to identify high-risk customers.
+<img align="right" src="ds4.gif" alt="Sai coding gif" width="380"/>
 
-- 📄 **Resume Screener (NLP-powered)**  
-  Automated keyword extraction & ranking system for filtering applicant resumes.
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, R, C++, SQL, Java</td>
+  </tr>
+  <tr>
+    <td><strong>ML / AI</strong></td>
+    <td>TensorFlow, PyTorch, scikit-learn, Keras</td>
+  </tr>
+  <tr>
+    <td><strong>NLP / CV</strong></td>
+    <td>spaCy, NLTK, Transformers, OpenCV, YOLO</td>
+  </tr>
+  <tr>
+    <td><strong>Platforms & Tools</strong></td>
+    <td>Git, Docker, Google Colab, Jupyter, AWS, Azure</td>
+  </tr>
+  <tr>
+    <td><strong>Data & Networking</strong></td>
+    <td>MySQL, MongoDB, TCP/IP, OSI Model, Network Security</td>
+  </tr>
+</table>
 
-- 🌐 **Real-time Anomaly Detector**  
-  Monitored packet flow and identified anomalies in a network using ML.
+</div>
 
-> 🔍 Check out [more projects here](https://github.com/SaiNikhil-06?tab=repositories)
+---
+
+## 📂 Featured Projects
+
+- 🤖 **AI Chatbot (Google Dialogflow)**  
+  Built a conversational assistant for dynamic customer queries.
+
+- 📉 **Churn Predictor**  
+  Supervised ML model with 85%+ accuracy for customer retention prediction.
+
+- 📄 **Resume Screener (NLP)**  
+  Automated pipeline for intelligent resume filtering based on job-fit keywords.
+
+- 🌐 **Network Anomaly Detection**  
+  Used unsupervised ML to identify irregular network activity in real-time.
+
+> 🧠 [Check more projects →](https://github.com/SaiNikhil-06?tab=repositories)
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 📫 Email: [katarusai0618@gmail.com](mailto:katarusai0618@gmail.com)  
-- 🧳 Resume: [View Resume](https://drive.google.com/file/d/1MVqNdKgeYpHFREFNq2FKQUdsKlYcKFJV/view?usp=share_link)  
-- 🌐 Website: [sainikhil-06.github.io](https://sainikhil-06.github.io)  
-- 💼 LinkedIn: [Sai Nikhil Kataru](https://www.linkedin.com/in/sainikhil-katara/)
+- 📬 Email: [katarusai0618@gmail.com](mailto:katarusai0618@gmail.com)  
+- 💼 Resume: [View Resume](https://drive.google.com/file/d/1MVqNdKgeYpHFREFNq2FKQUdsKlYcKFJV/view?usp=share_link)  
+- 🌐 Portfolio: [sainikhil-06.github.io](https://sainikhil-06.github.io)  
+- 🔗 LinkedIn: [Sai Nikhil Kataru](https://www.linkedin.com/in/sainikhil-katara/)
 
 ---
 
 ## ☕ Support My Work
 
-Like my work? Want to help me build more?
+If you enjoy my work or find it useful:
 
 👉 [Buy Me a Coffee](https://www.buymeacoffee.com/SaiNRK) 👈  
-Thanks for fueling my creativity and midnight builds 🔥
+Thanks for keeping my dev-fuel going 🔥
 
 ---
 
@@ -85,4 +107,4 @@ Thanks for fueling my creativity and midnight builds 🔥
 
 ---
 
-⭐ *“Code with curiosity, build with intent, and grow with the community.”*
+⭐ *“Code with curiosity. Build with purpose. Grow with the community.”*
