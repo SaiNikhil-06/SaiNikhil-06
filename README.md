@@ -125,7 +125,7 @@
 | 📧 | [Email Me](mailto:katarusai0618@gmail.com) |
 | 🌐 | [Portfolio](https://sainikhil-06.github.io) |
 | 💼 | [LinkedIn](https://www.linkedin.com/in/sainikhil-katara/) |
-| 📄 | [Resume (View PDF)](https://github.com/SaiNikhil-06/SaiNikhil-06/blob/main/Sai_Nikhil_Resume.pdf) |
+| 📄 | [Resume (View PDF)](https://github.com/SaiNikhil-06/SaiNikhil-06/blob/master/assetsR/Sai_Katara_Resume.pdf) |
 | ☕ | [Buy Me a Coffee](https://www.buymeacoffee.com/SaiNRK) |
 
 ---
