@@ -28,22 +28,18 @@ Hey there! I'm **Sai Nikhil Kataru**, an enthusiastic AI/ML Software Engineer fr
 
 ---
 
-## 🦇 Welcome to the Batcave
-
-<img src="https://i.gifer.com/7plK.gif" width="100%" alt="Coding in the shadows..." />
-
----
+<img align="right" alt="GIF" src="ds4.gif" width="400"/>
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, R, C++, SQL, Java  
-- **ML Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras  
-- **NLP**: spaCy, NLTK, Transformers  
-- **CV**: OpenCV, YOLO, CNNs  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools**: Git, Docker, Google Colab, Jupyter, AWS, Azure  
-- **Databases**: MySQL, MongoDB  
-- **Networking Concepts**: TCP/IP, OSI Model, Network Security  
+- **Languages**: Python, R, C++, SQL, Java
+- **ML Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras
+- **NLP**: spaCy, NLTK, Transformers
+- **CV**: OpenCV, YOLO, CNNs
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Tools**: Git, Docker, Google Colab, Jupyter, AWS, Azure
+- **Databases**: MySQL, MongoDB
+- **Networking Concepts**: TCP/IP, OSI Model, Network Security
 
 ---
 
