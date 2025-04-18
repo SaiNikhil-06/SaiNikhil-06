@@ -84,7 +84,7 @@ I’m passionate about **open-source**, collaborative learning, and turning idea
 ## 🤝 Let’s Connect
 
 - 📬 Email: [katarusai0618@gmail.com](mailto:katarusai0618@gmail.com)  
-- 💼 Resume: [View Resume](https://drive.google.com/file/d/1MVqNdKgeYpHFREFNq2FKQUdsKlYcKFJV/view?usp=share_link)  
+- 💼 Resume: 📄 [My Resume](https://sainikhil-06.github.io/assets/Sai_Nikhil_Resume.pdf)  
 - 🌐 Portfolio: [sainikhil-06.github.io](https://sainikhil-06.github.io)  
 - 🔗 LinkedIn: [Sai Nikhil Kataru](https://www.linkedin.com/in/sainikhil-katara/)
 
