@@ -3,78 +3,74 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SaiNikhil-06&label=Visitors&color=0e75b6&style=flat-square)
 
 <a href="https://www.linkedin.com/in/sainikhil-katara/">
-  <img align="left" alt="Sai's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/480px-LinkedIn_icon.svg.png" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://github.com/SaiNikhil-06">
-  <img align="left" alt="Sai's GitHub" width="22px" src="https://edent.github.io/SuperTinyIcons/images/png/github.png" />
+  <img align="left" alt="GitHub" width="22px" src="https://edent.github.io/SuperTinyIcons/images/png/github.png" />
 </a>
 <a href="https://www.instagram.com/nik_hill_insta/">
-  <img align="left" alt="Sai's Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
 </a>
 
 <br/><br/>
 
+---
+
+## 🦇 Welcome to My Batcave
+
+<img src="https://i.gifer.com/7plK.gif" width="100%" alt="Coding in the shadows..." />
+
+> *“Not all heroes wear capes. Some just commit and push.”*
+
+---
+
 ## 👨‍💻 About Me
 
-Hey there! I'm **Sai Nikhil Kataru**, an enthusiastic AI/ML Software Engineer from 🇮🇳 India. I specialize in building intelligent systems, digging into data, and deploying scalable machine learning solutions.
+I’m **Sai Nikhil Kataru**, a curious mind driven by data, AI, and the thrill of solving real-world problems.  
+A firm believer in **open-source collaboration**, I build and contribute to meaningful tech, one repo at a time.
 
-🚀 I’m always excited about:
-- Data Science & AI
-- Computer Vision & NLP
-- Building Chatbots
-- Exploring network protocols and systems
-
-🎯 I'm also a proud open-source contributor and love connecting with like-minded devs. Let’s learn and grow together!
-
----
-
-<img align="right" alt="GIF" src="ds4.gif" width="400"/>
-
-## 🛠️ Tech Stack
-
-- **Languages**: Python, R, C++, SQL, Java
-- **ML Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras
-- **NLP**: spaCy, NLTK, Transformers
-- **CV**: OpenCV, YOLO, CNNs
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Tools**: Git, Docker, Google Colab, Jupyter, AWS, Azure
-- **Databases**: MySQL, MongoDB
-- **Networking Concepts**: TCP/IP, OSI Model, Network Security
+**Specialties:**
+- Building smart systems from scratch
+- Turning messy data into actionable insights
+- Researching & deploying AI/ML models
+- Chatbots, NLP, Computer Vision... and beyond
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Toolbox
 
-🔹 **AI Chatbot (Google Dialogflow)**  
-A contextual chatbot designed to interact in natural language, capable of handling user queries dynamically.
-
-🔹 **Customer Churn Prediction**  
-Built a predictive ML model with 85% accuracy using telecom data to identify potential customer churn.
-
-🔹 **NLP-powered Resume Screener**  
-Automated resume filtering using keyword extraction, text ranking, and skill-to-role matching.
-
-🔹 **Real-time Network Anomaly Detection**  
-Analyzed packet data and detected anomalies using unsupervised ML techniques.
-
-📌 More projects available in [my repositories →](https://github.com/SaiNikhil-06?tab=repositories)
+| Languages | ML & AI | DevOps & Tools | DB & Networking |
+|----------|---------|----------------|-----------------|
+| Python, R, SQL, Java, C++ | TensorFlow, PyTorch, scikit-learn, Keras | Docker, Git, Jupyter, Colab, AWS, Azure | MySQL, MongoDB, TCP/IP, OSI, NetSec |
 
 ---
 
-## 💬 Let’s Connect!
+## 🚀 Projects I'm Proud Of
 
-- 📧 Email: [katarusai0618@gmail.com](mailto:katarusai0618@gmail.com)  
-- 🔗 Portfolio: [sainikhil-06.github.io](https://sainikhil-06.github.io)  
-- 📄 [My Resume](https://drive.google.com/file/d/1MVqNdKgeYpHFREFNq2FKQUdsKlYcKFJV/view?usp=share_link)  
+- 🧠 **AI Chatbot (Google Dialogflow)** – Interactive assistant with NLP-based query handling  
+- 📉 **Churn Predictor** – ML model with 85%+ accuracy to forecast customer exits  
+- 📄 **Resume Screener** – NLP system to automate resume filtering based on role-fit  
+- 🌐 **Network Anomaly Detector** – Real-time insights from live packet stream analysis
+
+> 💡 *Check out more in the [Projects tab →](https://github.com/SaiNikhil-06?tab=repositories)*
 
 ---
 
-## ☕ Support My Work
+## 🌐 Connect with Me
 
-If you enjoy my content or find my projects helpful:
+- 📬 [Email](mailto:katarusai0618@gmail.com)  
+- 💼 [Resume](https://drive.google.com/file/d/1MVqNdKgeYpHFREFNq2FKQUdsKlYcKFJV/view?usp=share_link)  
+- 🔗 [Portfolio](https://sainikhil-06.github.io)  
+- 🧠 [LinkedIn](https://www.linkedin.com/in/sainikhil-katara/)
 
+---
+
+## ☕ Support My Journey
+
+If my projects, blogs, or tools help you:
+<br>
 👉 [Buy Me a Coffee](https://www.buymeacoffee.com/SaiNRK) 👈  
-Your support means the world and helps me keep creating!
+It fuels my midnight builds and crazy side projects. Thanks, legend! 🙌
 
 ---
 
@@ -83,3 +79,8 @@ Your support means the world and helps me keep creating!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiNikhil-06&show_icons=true&theme=dracula&count_private=true" />
 </p>
+
+---
+
+⭐ *“Code like a legend, learn like a student, and build like a visionary.”*
+
