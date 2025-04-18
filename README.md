@@ -16,61 +16,64 @@
 
 ---
 
-## 🦇 Welcome to My Batcave
-
-<img src="https://i.gifer.com/7plK.gif" width="100%" alt="Coding in the shadows..." />
-
-> *“Not all heroes wear capes. Some just commit and push.”*
-
----
-
 ## 👨‍💻 About Me
 
-I’m **Sai Nikhil Kataru**, a curious mind driven by data, AI, and the thrill of solving real-world problems.  
-A firm believer in **open-source collaboration**, I build and contribute to meaningful tech, one repo at a time.
+Hey there! I'm **Sai Nikhil Kataru**, an enthusiastic AI/ML Software Engineer from 🇮🇳 India.  
+I specialize in building intelligent systems, extracting insights from data, and deploying scalable ML pipelines.
 
-**Specialties:**
-- Building smart systems from scratch
-- Turning messy data into actionable insights
-- Researching & deploying AI/ML models
-- Chatbots, NLP, Computer Vision... and beyond
+I love working at the intersection of:
+- 🤖 Data Science & Artificial Intelligence
+- 🧠 NLP & Computer Vision
+- 🛜 Networking & Systems Design
+- 💬 Chatbot Frameworks & Dialogflow
 
----
-
-## 🛠️ Toolbox
-
-| Languages | ML & AI | DevOps & Tools | DB & Networking |
-|----------|---------|----------------|-----------------|
-| Python, R, SQL, Java, C++ | TensorFlow, PyTorch, scikit-learn, Keras | Docker, Git, Jupyter, Colab, AWS, Azure | MySQL, MongoDB, TCP/IP, OSI, NetSec |
+I’m also a proud open-source advocate — learning, building, and sharing knowledge with the community.
 
 ---
 
-## 🚀 Projects I'm Proud Of
+<img align="right" alt="ds4 gif" src="ds4.gif" width="400"/>
 
-- 🧠 **AI Chatbot (Google Dialogflow)** – Interactive assistant with NLP-based query handling  
-- 📉 **Churn Predictor** – ML model with 85%+ accuracy to forecast customer exits  
-- 📄 **Resume Screener** – NLP system to automate resume filtering based on role-fit  
-- 🌐 **Network Anomaly Detector** – Real-time insights from live packet stream analysis
+## 🛠️ Tech Stack
 
-> 💡 *Check out more in the [Projects tab →](https://github.com/SaiNikhil-06?tab=repositories)*
-
----
-
-## 🌐 Connect with Me
-
-- 📬 [Email](mailto:katarusai0618@gmail.com)  
-- 💼 [Resume](https://drive.google.com/file/d/1MVqNdKgeYpHFREFNq2FKQUdsKlYcKFJV/view?usp=share_link)  
-- 🔗 [Portfolio](https://sainikhil-06.github.io)  
-- 🧠 [LinkedIn](https://www.linkedin.com/in/sainikhil-katara/)
+| Languages | ML & AI | Tools & Platforms | Data & Networking |
+|----------|---------|-------------------|-------------------|
+| Python, R, SQL, C++, Java | TensorFlow, PyTorch, scikit-learn, Keras | Git, Docker, Google Colab, Jupyter, AWS, Azure | MySQL, MongoDB, TCP/IP, OSI, Network Security |
 
 ---
 
-## ☕ Support My Journey
+## 📂 Projects Showcase
 
-If my projects, blogs, or tools help you:
-<br>
+- 🤖 **AI Chatbot (Dialogflow)**  
+  Built an NLP-based chatbot for natural query handling and conversational flows.
+
+- 📉 **Customer Churn Predictor**  
+  Supervised ML model with 85%+ accuracy to identify high-risk customers.
+
+- 📄 **Resume Screener (NLP-powered)**  
+  Automated keyword extraction & ranking system for filtering applicant resumes.
+
+- 🌐 **Real-time Anomaly Detector**  
+  Monitored packet flow and identified anomalies in a network using ML.
+
+> 🔍 Check out [more projects here](https://github.com/SaiNikhil-06?tab=repositories)
+
+---
+
+## 🤝 Let’s Connect
+
+- 📫 Email: [katarusai0618@gmail.com](mailto:katarusai0618@gmail.com)  
+- 🧳 Resume: [View Resume](https://drive.google.com/file/d/1MVqNdKgeYpHFREFNq2FKQUdsKlYcKFJV/view?usp=share_link)  
+- 🌐 Website: [sainikhil-06.github.io](https://sainikhil-06.github.io)  
+- 💼 LinkedIn: [Sai Nikhil Kataru](https://www.linkedin.com/in/sainikhil-katara/)
+
+---
+
+## ☕ Support My Work
+
+Like my work? Want to help me build more?
+
 👉 [Buy Me a Coffee](https://www.buymeacoffee.com/SaiNRK) 👈  
-It fuels my midnight builds and crazy side projects. Thanks, legend! 🙌
+Thanks for fueling my creativity and midnight builds 🔥
 
 ---
 
@@ -82,5 +85,4 @@ It fuels my midnight builds and crazy side projects. Thanks, legend! 🙌
 
 ---
 
-⭐ *“Code like a legend, learn like a student, and build like a visionary.”*
-
+⭐ *“Code with curiosity, build with intent, and grow with the community.”*
