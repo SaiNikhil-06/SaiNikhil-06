@@ -34,7 +34,7 @@ I’m passionate about **open-source**, collaborative learning, and turning idea
 
 <div align="center">
 
-<img align="right" src="ds4.gif" alt="Sai coding gif" width="380"/>
+<img align="center" src="ds4.gif" alt="Sai coding gif" width="380"/>
 
 <table>
   <tr>
